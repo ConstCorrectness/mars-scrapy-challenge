@@ -11,9 +11,8 @@ Welcome to the **Mars Scrapy Challenge**! This project is designed to scrape and
 - [Overview](#overview)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
+- [Images](#images)
 - [License](#license)
 
 ## Overview
