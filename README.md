@@ -48,6 +48,13 @@ mars-scrapy-challenge/
 ├── part_2_mars_weather.ipynb
 ```
 
+## Images
+
+<img src="images/avg_min_temp_month.png" alt="Average Min Temp per Month" width="300"/>
+<img src="images/avg_pressure_by_month.png" alt="Avg Pressure" width="300"/>
+<img src="images/daily_min_temp.png" alt="Daily Min Temp " width="300"/>
+
+
 ## License
 
 This project is licensed under the GNU GPLv3 License. See the `LICENSE` file for details.
